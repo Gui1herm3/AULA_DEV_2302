@@ -1,4 +1,4 @@
 ### AULA_DEV_2302
 
 Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
-![This is an image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.britannica.com%2F67%2F148167-050-F596E6F2%2FMarcus-Aurelius-statue-Rome-Piazza-del-Campidoglio.jpg&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fbiography%2FMarcus-Aurelius-Roman-emperor&tbnid=kkNuC3Oy9xR57M&vet=12ahUKEwjtxafqyqv9AhXpSLgEHSvDCV4QMygCegUIARC9AQ..i&docid=FYDeG3H13p5l8M&w=1265&h=1600&q=marcus%20aurelius&ved=2ahUKEwjtxafqyqv9AhXpSLgEHSvDCV4QMygCegUIARC9AQ)
+![This is an image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F1c%2FMarcus_Aurelius_Louvre_MR561_n02.jpg%2F1365px-Marcus_Aurelius_Louvre_MR561_n02.jpg&imgrefurl=https%3A%2F%2Fpt.m.wikisource.org%2Fwiki%2FFicheiro%3AMarcus_Aurelius_Louvre_MR561_n02.jpg&tbnid=d0CZyJJwVjsrwM&vet=12ahUKEwjtxafqyqv9AhXpSLgEHSvDCV4QMygLegUIARDPAQ..i&docid=3tZXfT-tJaqSrM&w=1365&h=2048&q=marcus%20aurelius&ved=2ahUKEwjtxafqyqv9AhXpSLgEHSvDCV4QMygLegUIARDPAQ)
